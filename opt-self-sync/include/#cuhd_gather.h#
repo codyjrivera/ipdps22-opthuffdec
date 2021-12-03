@@ -1,0 +1,24 @@
+/*****************************************************************************
+ *
+ * CUHD - A massively parallel Huffman decoder
+ *
+ * released under LGPL-3.0
+ *
+ * 2017-2018 André Weißenberger
+ *
+ *****************************************************************************/
+
+#ifndef CUHD_GATHER_
+#define CUHD_GATHER_
+
+#include <memory>
+
+#include "cuhd_constants.h"
+#include "cuhd_definitions.h"
+
+namespace cuhd {
+    
+    
+}
+#endif /* CUHD_INPUT_BUFFER_H_ */
+

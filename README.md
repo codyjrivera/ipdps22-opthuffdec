@@ -22,4 +22,3 @@ This repository contains the four decoders we evaluated throughout our paper.
 
 
 (For `runcusz.sh`, which evaluates cuSZ's Huffman decoding, just follow step 3 and type `./runcusz.sh`)
-(Note that our changes are mostly found in `demo.cc` and `cuhd_gpu_decoder.cu`)

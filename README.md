@@ -32,8 +32,6 @@ This repository contains the four decoders we evaluated throughout our paper [1]
 
 [2]. Andre Weissenberger and Bertil Schmidt. "Massively Parallel Huffman Decoding on GPUs", In *Proceedings of the 47th International Conference on Parallel Processing (ICPP)*, 2018, pp. 1-10.
 
-[2]. Andre Weissenberger and Bertil Schmidt. "Massively Parallel Huffman Decoding on GPUs", In *Proceedings of the 47th International Conference on Parallel Processing (ICPP)*, 2018, pp. 1-10.
-
 [3]. *CUHD: - A massively parallel Huffman decoder*. https://github.com/weissenberger/gpuhd
 
 [4]. Naoya Yamamoto, Koji Nakano, Yasuaki Ito, Daisuke Takafuji, Akihiko Kasagi, and Tsuguchika Tabaru. “Huffman Coding with Gap Arrays for GPU Acceleration”. In *49th International
